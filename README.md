@@ -33,3 +33,12 @@ To run this application seamlessly, please note the following:
 * Ensure that you have a MySQL server set up to enable the application's database functionality.
 ### Configuration:
 * Open the '**Main.java**' file to provide your MySQL server's `URL`, `username` and `password` in the specified fields.
+
+<br>
+
+## Project Authors
+* [Mariam Ayman](https://github.com/mariamayman10)
+* [Roaa EmadEldin](https://github.com/RoaaEmadEldin)
+* [Omnya Ahmed](https://github.com/omnya122)
+* [Seif Eldein Mohamed](https://github.com/seifeldein1)
+* [Ghazali](https://github.com/ghazali23)
