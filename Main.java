@@ -4,9 +4,12 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args)
     {
-        String url = "jdbc:mysql://localhost:3306/myschema";
-        String username = "root";
-        String password = "01120231819Omnia";
+        // Add here the MySQL Server's URL that specifies its location, port number and shcema name.
+        String url = "";
+        // Add here the MySQL Server's Username.
+        String username = "";
+        // Add here the MySQL Server's Password.
+        String password = "";
 
 
         // 1st insert statement
