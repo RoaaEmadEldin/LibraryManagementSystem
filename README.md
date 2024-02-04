@@ -32,4 +32,4 @@ To run this application seamlessly, please note the following:
 ### MySQL Server:
 * Ensure that you have a MySQL server set up to enable the application's database functionality.
 ### Configuration:
-* Open the '**Main.java**' file to provide your MySQL server's `username` and `password` in the specified fields.
+* Open the '**Main.java**' file to provide your MySQL server's `URL`, `username` and `password` in the specified fields.
