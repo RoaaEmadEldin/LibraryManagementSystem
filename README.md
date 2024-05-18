@@ -1,5 +1,5 @@
 # Library Management System
-This Java Swing-GUI application is designed to efficiently manage library operations for both admins and users. This application needs  Below are the functionalities that the system provides:
+This Java JavaFX-GUI application is designed to efficiently manage library operations for both admins and users. This application needs  Below are the functionalities that the system provides:
 <br>
 
 ## Common Functionalities between Admins and Users
